@@ -1,0 +1,41 @@
+{
+    "season": 24,
+    "pilot_date": "",
+    "winner": "",
+    "bachelor_data": {
+        "name": "",
+        "hometown": "",
+        "age": "",
+        "occupation": ""
+    },
+    "contestant_data": [
+        {
+            "name": "",
+            "hometown": "",
+            "age": "",
+            "occupation": ""
+        },
+        {
+            "name": "",
+            "hometown": "",
+            "age": "",
+            "occupation": ""
+        }
+    ],
+    "episode_data": [
+        {
+            "air-date": "2020-01-01",
+            "location": "",
+            "activities": [
+                {
+                    "type": "",
+                    "activity": "",
+                    "participants": [],
+                    "rose-recipient": ""
+                }
+            ],
+            "rose-recipients": [],
+            "eliminations": []
+        }
+    ]
+}
